@@ -1,6 +1,8 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+// Link to thi tutorial https://www.youtube.com/watch?v=7CqJlxBYj-M
+
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
